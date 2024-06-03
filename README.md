@@ -1,8 +1,5 @@
 # ML
 
-# Java-prog
-## Java Practice Programs(OOPS lab)
-
 1. [Linear Regression](1_linear_regression.ipynb)
 
 ----------------------------------------------------------------------------------------------
