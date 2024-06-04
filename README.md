@@ -1,6 +1,7 @@
 # ML
 
 1. [Linear Regression](1_linear_regression.ipynb)
+2. [Linear Reg MultiVariate](2_linear_regression_multivariate.ipynb)
 
 ----------------------------------------------------------------------------------------------
 
