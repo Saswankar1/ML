@@ -2,6 +2,7 @@
 
 1. [Linear Regression](1_linear_regression.ipynb)
 2. [Linear Reg MultiVariate](2_linear_regression_multivariate.ipynb)
+3. [Gradient Descent](gradient_descent.ipynb)
 
 ----------------------------------------------------------------------------------------------
 
