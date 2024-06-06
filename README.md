@@ -3,6 +3,7 @@
 1. [Linear Regression](1_linear_regression.ipynb)
 2. [Linear Reg MultiVariate](2_linear_regression_multivariate.ipynb)
 3. [Gradient Descent](gradient_descent.ipynb)
+4. [Save and Load Model](4_save_and_load_model_using_pickle.ipynb)
 
 ----------------------------------------------------------------------------------------------
 
