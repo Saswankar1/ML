@@ -6,6 +6,7 @@
 4. [Save and Load Model](4_save_and_load_model_using_pickle.ipynb)
 5. [One Hot Encoding](one_hot_encoding.ipynb)
 6. [Train test split](train_test_split.ipynb)
+7. [Logistic regression](7_logistic_regression.ipynb)
 
 ----------------------------------------------------------------------------------------------
 
