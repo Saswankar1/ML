@@ -7,6 +7,7 @@
 5. [One Hot Encoding](one_hot_encoding.ipynb)
 6. [Train test split](train_test_split.ipynb)
 7. [Logistic regression](7_logistic_regression.ipynb)
+8. [Logistic Regression Multiclass](8_logistic_regression_multiclass.ipynb)
 
 ----------------------------------------------------------------------------------------------
 
