@@ -10,6 +10,7 @@
 8. [Logistic Regression Multiclass](8_logistic_regression_multiclass.ipynb)
 9. [Decision Tree](9_decision_tree.ipynb)
 10. [SVM](10_svm.ipynb)
+11. [Random Forest](11_random_forest.ipynb)
 
 ----------------------------------------------------------------------------------------------
 
