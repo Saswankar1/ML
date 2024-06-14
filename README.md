@@ -11,6 +11,7 @@
 9. [Decision Tree](9_decision_tree.ipynb)
 10. [SVM](10_svm.ipynb)
 11. [Random Forest](11_random_forest.ipynb)
+12. [K Fold Cross validation](12_k_fold.ipynb)
 
 ----------------------------------------------------------------------------------------------
 
