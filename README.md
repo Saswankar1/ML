@@ -12,7 +12,7 @@
 10. [SVM](10_svm.ipynb)
 11. [Random Forest](11_random_forest.ipynb)
 12. [K Fold Cross validation](12_k_fold.ipynb)
-
+13. [K Means](13_kmeans_tutorial.ipynb)
 ----------------------------------------------------------------------------------------------
 
 ## How to Contribute
