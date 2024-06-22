@@ -17,7 +17,6 @@
 ----------------------------------------------------------------------------------------------
 
 ## How to Contribute
-
 Your contributions to this repository are highly welcome! Follow the steps below to contribute:
 
 1. Fork the Repository:
