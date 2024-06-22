@@ -33,7 +33,7 @@ Your contributions to this repository are highly welcome! Follow the steps below
    ```bash
    git add .
    git commit -m "Your Changes"
-   git push origin feature/your-feature-name
+   git push origin feature/feature-name
    ```
 ----------------------------------------------------------------------------------------------
 
