@@ -14,6 +14,7 @@
 12. [K Fold Cross validation](12_k_fold.ipynb)
 13. [K Means](13_kmeans_tutorial.ipynb)
 14. [Naive Bayes](14_naive_bayes_1_titanic_survival_prediction.ipynb)
+15. [Grid Search](15_grid_search.ipynb)
 ----------------------------------------------------------------------------------------------
 
 ## How to Contribute
